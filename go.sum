@@ -1,4 +1,4 @@
-github.com/kamalshkeir/kasm v0.0.1 h1:JN/ABny+QKfKWkz7w5r8JDKZZ2Q8CSDf4ftlsZjySq0=
-github.com/kamalshkeir/kasm v0.0.1/go.mod h1:aB7Vg8R+kx104qe7Nz5nPPGKCvNYKFQsioinlTY1V1Q=
+github.com/kamalshkeir/kasm v0.0.2 h1:2OsJa39ZVFFFzxoGjVWIvpZzSutS5Vh3MHBj9Ya4VDU=
+github.com/kamalshkeir/kasm v0.0.2/go.mod h1:aB7Vg8R+kx104qe7Nz5nPPGKCvNYKFQsioinlTY1V1Q=
 golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
 golang.org/x/sys v0.7.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
